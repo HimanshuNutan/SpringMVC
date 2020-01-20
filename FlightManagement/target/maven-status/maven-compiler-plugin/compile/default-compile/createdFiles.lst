@@ -1,0 +1,9 @@
+com\flightmanagement\config\MVCConfig.class
+com\flightmanagement\util\DbConfiguration.class
+com\flightmanagement\model\Flight.class
+com\flightmanagement\controller\IndexController.class
+com\flightmanagement\service\FliManService.class
+com\flightmanagement\controller\FlightController.class
+com\flightmanagement\config\ApplicationInitializer.class
+com\flightmanagement\dao\FlightDAOImpl.class
+com\flightmanagement\dao\FlightDAO.class
